@@ -1,8 +1,8 @@
 <?php 
 
-$servidor = "164.92.128.43";
-$usuario = "doadmin";
-$senha = "AVNS_Or4eR9D0hT42Fd1gHLG";
+$servidor = "localhost";
+$usuario = "root";
+$senha = "";
 $db = "envios";
 
 $conexao = mysqli_connect($servidor, $usuario, $senha, $db);
